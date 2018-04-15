@@ -28,3 +28,9 @@ I think we will just do headers for now:
 
 Info on headers:
 [What Can You Find in an Email Header?](https://www.howtogeek.com/108205/htg-explains-what-can-you-find-in-an-email-header/)
+
+Think we need to somehow read the data in at first
+Then see if it is bad
+Then output back else we will run out of memory
+
+For now I am just doing inbox
