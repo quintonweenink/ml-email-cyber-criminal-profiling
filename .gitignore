@@ -106,3 +106,4 @@ ENV/
 maildir
 maildir.zip
 *.csv
+spam
