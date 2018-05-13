@@ -9,7 +9,7 @@ Research paper is under `/docs`
 #### Getting Started:
 
 ##### Install dependencies:
-`sudo -H pip install -r requirements.txt`
+`sudo -H pip3 install -r requirements.txt`
 
 ##### Running a simulation:
 
