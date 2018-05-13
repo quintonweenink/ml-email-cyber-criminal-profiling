@@ -105,3 +105,4 @@ ENV/
 !docs/**/*.png
 maildir
 maildir.zip
+*.csv
