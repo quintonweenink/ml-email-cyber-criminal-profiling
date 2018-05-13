@@ -1,4 +1,1 @@
 git+git://github.com/quintonweenink/mlpy@master
-py2neo
-neomodel
-neo4j-driver
