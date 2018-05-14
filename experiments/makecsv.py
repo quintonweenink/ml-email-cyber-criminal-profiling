@@ -2,8 +2,8 @@ import datetime
 
 # Did this so you don't overwrite previous things by mistake
 now = str(datetime.datetime.now().replace(microsecond=0))
-enroncsv = "./experiments/enron-" + now + ".csv"
-metadataHeaders = './experiments/metadataHeaders.csv'
+enroncsv = "./experiments/data/enron-" + now + ".csv"
+metadataHeaders = './experiments/data/metadataHeaders.csv'
 emailDir = "./experiments/maildir/maildir"
 
 import pandas as pd

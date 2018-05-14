@@ -2,7 +2,7 @@ import datetime
 
 # Did this so you don't overwrite previous things by mistake
 now = str(datetime.datetime.now().replace(microsecond=0))
-spamcsv = "./experiments/spam-" + now + ".csv"
+spamcsv = "./experiments/data/spam-" + now + ".csv"
 spamDir = "./experiments/spam"
 
 import pandas as pd
