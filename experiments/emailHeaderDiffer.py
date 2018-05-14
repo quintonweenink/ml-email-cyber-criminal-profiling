@@ -12,7 +12,7 @@ from email.policy import default
 cwd = os.getcwd()
 messagefile = cwd+"/../../project-resources/maildir"
 # print(messagefile)
-spamWords = cwd+"/spamWords.txt"
+spamWords = cwd+"/data/spamWords.csv"
 f = open(spamWords)
 lines = f.read().splitlines()
 f.close()

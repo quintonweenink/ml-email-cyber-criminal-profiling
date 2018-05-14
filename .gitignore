@@ -106,4 +106,5 @@ ENV/
 maildir
 maildir.zip
 *.csv
+.DS_Store
 spam
